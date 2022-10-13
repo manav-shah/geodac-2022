@@ -78,4 +78,4 @@ dependencies:
   - xarray
   - zlib
   - zstd
-prefix: /opt/anaconda3/envs/GEODACenv
+prefix: C:\\Users\\shahm\\Documents\\Anaconda
